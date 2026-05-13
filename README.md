@@ -1,11 +1,33 @@
-### Shashank S N
+### Hey, I'm Shashank 👋
 
-MS Cybersecurity @ Northeastern University
+🎓 MS Cybersecurity @ Northeastern University (Khoury College)
 
-Cloud security, SIEM/SOAR engineering, threat detection, incident response, and cyber risk assessment. Experience with AWS security services, MITRE ATT&CK, Python, and compliance frameworks including NIST and DHS NIPP.
+🔒 I design and build security systems that detect threats, automate response, and reduce attacker dwell time in cloud environments. I also analyze risk across critical infrastructure and align security strategies with compliance frameworks.
 
-**Projects:**
-- [CloudSentinel](https://github.com/shashanksn-413/CloudSentinel) — Cloud SIEM/SOAR platform with AI triage, 8 detection rules mapped to MITRE ATT&CK, automated response under 15 seconds
-- [CyberPhysical Risk Analysis](https://github.com/shashanksn-413/CyberPhysical-Risk-Analysis) — 10-state critical infrastructure resilience analysis aligned with DHS NIPP and NIST SP 800-82
+---
 
-**Connect:** [LinkedIn](https://linkedin.com/in/shashank-s-n)
+🛡️ **What I work with:**
+
+Cloud Security · SIEM/SOAR Engineering · Threat Detection · Incident Response · Cyber Risk Assessment · Security Governance · Vulnerability Analysis · MITRE ATT&CK · AWS Security Services · Python · NIST RMF · NIST SP 800-82 · DHS NIPP · Fault Tree Analysis
+
+---
+
+💡 **If you're looking for someone who:**
+
+✅ Builds cloud detection and response platforms from scratch, not just configures them
+
+✅ Maps detection logic to MITRE ATT&CK and measures real containment times
+
+✅ Integrates AI into security operations for smarter alert triage
+
+✅ Conducts risk assessments aligned with DHS and NIST frameworks and quantifies risk reduction with real financial data
+
+✅ Evaluates vulnerabilities across interconnected systems and produces prioritized investment recommendations
+
+✅ Writes clean code, documents everything, and ships on time
+
+...you're in the right place. Check out my pinned repos below 👇
+
+---
+
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/shashank-s-n) · [Email](mailto:shashanksn413@gmail.com)
