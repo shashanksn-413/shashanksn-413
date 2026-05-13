@@ -14,20 +14,44 @@ Cloud Security · SIEM/SOAR Engineering · Threat Detection · Incident Response
 
 💡 **If you're looking for someone who:**
 
-✅ Builds cloud detection and response platforms from scratch, not just configures them
+<details>
+<summary>🏗️ Builds cloud detection and response platforms from scratch</summary>
+<br>
+Not just configures tools. I architect SIEM/SOAR systems using AWS CloudTrail, GuardDuty, EventBridge, Lambda, and DynamoDB with automated containment workflows.
+</details>
 
-✅ Maps detection logic to MITRE ATT&CK and measures real containment times
+<details>
+<summary>🎯 Maps detection logic to MITRE ATT&CK with real metrics</summary>
+<br>
+Custom detection rules tied to specific technique IDs, measured detection to containment times, and zero missed detections across documented attack scenarios.
+</details>
 
-✅ Integrates AI into security operations for smarter alert triage
+<details>
+<summary>🤖 Integrates AI into security operations</summary>
+<br>
+Built a stateful GPT powered triage agent that tracks actor history, scores severity, and escalates repeat offenders automatically.
+</details>
 
-✅ Conducts risk assessments aligned with DHS and NIST frameworks and quantifies risk reduction with real financial data
+<details>
+<summary>📊 Conducts risk assessments aligned with federal frameworks</summary>
+<br>
+Applied MBRA, DHS NIPP, and NIST SP 800-82 to quantify prevention costs, response costs, and consequence values using real financial data, producing prioritized investment recommendations.
+</details>
 
-✅ Evaluates vulnerabilities across interconnected systems and produces prioritized investment recommendations
+<details>
+<summary>🔍 Evaluates vulnerabilities across interconnected systems</summary>
+<br>
+Modeled cyber and physical propagation across critical infrastructure networks, identified critical nodes through centrality analysis, and demonstrated over 90% risk reduction through targeted mitigation.
+</details>
 
-✅ Writes clean code, documents everything, and ships on time
-
-...you're in the right place. Check out my pinned repos below 👇
+<details>
+<summary>📝 Documents everything and ships on time</summary>
+<br>
+Professional READMEs, structured repos, published research papers, and clean code. Check the pinned repos below for proof.
+</details>
 
 ---
+
+👇 **Check out my pinned repos below**
 
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/shashank-s-n) · [Email](mailto:shashanksn413@gmail.com)
