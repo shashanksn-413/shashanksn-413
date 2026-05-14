@@ -8,7 +8,7 @@
 
 🛡️ **What I work with:**
 
-Cloud Security · SIEM/SOAR Engineering · Threat Detection · Incident Response · Cyber Risk Assessment · Security Governance · Vulnerability Analysis · MITRE ATT&CK · AWS Security Services · Python · NIST RMF · NIST SP 800-82 · DHS NIPP · Fault Tree Analysis
+Cloud Security · SIEM/SOAR Engineering · Threat Detection · Incident Response · Cyber Risk Assessment · Security Governance · Vulnerability Analysis · MITRE ATT&CK · AWS Security Services · LLM Security · Machine Learning · Python · NIST RMF · NIST SP 800-82 · DHS NIPP · Fault Tree Analysis
 
 ---
 
@@ -30,6 +30,12 @@ Custom detection rules tied to specific technique IDs, measured detection to con
 <summary>🤖 Integrates AI into security operations</summary>
 <br>
 Built a stateful GPT powered triage agent that tracks actor history, scores severity, and escalates repeat offenders automatically.
+</details>
+
+<details>
+<summary>🔗 Researches emerging AI supply chain threats</summary>
+<br>
+Investigating how LLMs hallucinate non-existent package names in code recommendations, enabling attackers to register malicious packages. Built offensive research framework, proof of concept attack chain, and defensive CLI scanner.
 </details>
 
 <details>
