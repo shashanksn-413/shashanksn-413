@@ -2,7 +2,7 @@
 
 🎓 MS Cybersecurity @ Northeastern University (Khoury College)
 
-🔒 I design and build security systems that detect threats, automate response, and reduce attacker dwell time in cloud environments. I also analyze risk across critical infrastructure and align security strategies with compliance frameworks
+🔒 I design and build security systems that detect threats, automate response, and reduce attacker dwell time in cloud environments. I also analyze risk across critical infrastructure and align security strategies with compliance frameworks.
 
 ---
 
