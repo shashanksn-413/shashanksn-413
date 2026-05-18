@@ -53,7 +53,7 @@ Modeled cyber and physical propagation across critical infrastructure networks, 
 <details>
 <summary>📝 Documents everything and ships on time</summary>
 <br>
-Professional READMEs, structured repos, published research papers, and clean code. Check the pinned repos below for proof.
+Professional READMEs, structured repos, published research papers, and clean code. Check the pinned repos below for proof
 </details>
 
 ---
