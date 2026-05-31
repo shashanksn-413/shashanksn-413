@@ -1,6 +1,6 @@
 ### Hey, I'm Shashank 👋
 🎓 MS Cybersecurity @ Northeastern University (Khoury College)
-🔒 I build security systems focused on threat detection, automated response, and risk-informed decision making across cloud and critical infrastructure environments. I also research emerging attack vectors at the intersection of AI and supply chain security.
+🔒 I build security systems focused on threat detection, automated response and risk-informed decision making across cloud and critical infrastructure environments. I also research emerging attack vectors at the intersection of AI and supply chain security.
 
 ---
 
